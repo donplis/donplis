@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Daniel (@donplis)
-- 👀 I’m a remediation engineer. I'm interested in low impact living, and minimalism.
-- 🌱 I’m looking to get started in computer science, and I'm currently learning online via the OSSU, having started in 2021.
-- 💞️ I see computer science as a versatile tool which will allow me to create and build.
+- 👀 I’m an environmental engineer with an interest in IoT.
+- 🌱 I’ve been dabbling in computer science, and I'm currently learning online via the OSSU.
 - 📫 You can reach me at dertateossian@gmail.com.
 
 <!---
